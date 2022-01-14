@@ -4,7 +4,7 @@
 
 | :--- | :--- |
 | telegram | [@Stasint](https://t.me/Stasint) |
-| github | [@Evaliot](https://github.com/Evaliot) |
+| github | [[@stanisw](https://github.com/stanisw) |
 | email | [sutyaginstanislav@gmail.com](sutyaginstanislav@gmail.com) |
 | instagram | [@sutyagindev](https://www.instagram.com/sutyagindev/) |
 
@@ -39,7 +39,7 @@
 
 ## English
 
-| Pre-intermediate/Intermediate (A2/B1) |
+| Pre-intermediate |
 
 ## Russian
 
