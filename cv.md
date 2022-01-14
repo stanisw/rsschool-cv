@@ -4,7 +4,7 @@
 
 | :--- | :--- |
 | telegram | [@Stasint](https://t.me/Stasint) |
-| github | [[@stanisw](https://github.com/stanisw) |
+| github | [@stanisw](https://github.com/stanisw) |
 | email | [sutyaginstanislav@gmail.com](sutyaginstanislav@gmail.com) |
 | instagram | [@sutyagindev](https://www.instagram.com/sutyagindev/) |
 
