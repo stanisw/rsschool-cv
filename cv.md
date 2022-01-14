@@ -25,7 +25,7 @@
 
 ## Experience
 
-| github | [@Evaliot](https://github.com/stanisw) |
+| github | [@stanisw](https://github.com/stanisw) |
 
 ## Education
 
